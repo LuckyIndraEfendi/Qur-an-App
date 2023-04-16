@@ -42,11 +42,3 @@ const Details = () => {
 };
 
 export default Details;
-{/* <div className=" detailList">
-<span className="text-lg bg-green-500 px-3 text-white rounded-full py-1">${result.number}</span>
-<h1 className=" text-end text-2xl">${result.text.arab}</h1>
-<div className="px-4 py-3 mt-6">
-    <h1 className="font-bold text-lg">${result.text.transliteration.id}</h1>
-    <p className="mt-1">${result.text.translation.id}</p>
-</div>
-</div> */}
